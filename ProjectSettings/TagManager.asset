@@ -3,16 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - BallNo
+  - BallYes
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - ActiveWall
   - Water
   - UI
-  - 
-  - 
+  - InactiveWall
+  - Walls
   - 
   - 
   - 
